@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ponnmahesh
+- 👋 Hi, I’m @ponnmahesh
 - 👀 I’m interested in AWS-Devops
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on AWS-DevOps
